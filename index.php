@@ -106,8 +106,9 @@
                 </div>
                 <hr />
                 <div class="row">
-                    <div class="col-lg-2">
-                        <input type="submit" id="boton_subir" value="Subir" class="btn btn-success" />
+                    
+                    <div class="col-lg-2 form-group">
+                        <input type="submit" id="boton_subir" class="form-control" value="Subir" class="btn btn-success" />
                     </div>
                     <div class="col-lg-4">
                         <progress id="barra_de_progreso" value="0" max="100"></progress>
